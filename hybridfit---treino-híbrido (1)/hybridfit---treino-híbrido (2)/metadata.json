@@ -1,6 +1,0 @@
-{
-  "name": "HybridFit - Treino Híbrido",
-  "description": "Aplicativo web mobile para acompanhamento de treinos híbridos de musculação e cardio com controle de cargas e evolução.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
